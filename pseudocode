@@ -1,0 +1,7 @@
+sudoku fonctionne en 9 lignes et 9 colonnes mais aussi en 9 carrés.
+Chaque ligne, col, car contient 1 seule fois les nombres de 1 à 9.
+La somme des nombres de chquae li, col, car est donc égale à 1+2+3+4+5+6+7+8+9 = 45
+Le cadriage est à prendre en commpte.
+
+Complèter les lignes quand c'est possible? toutes sauf une!
+Passer l'argument dans un array, multidirectionel?
